@@ -1,6 +1,6 @@
 # Super-Hetrodyne-Receiver
  The purpose of this project is to simulate the basic components of an analog communication system using MATLAB. Specifically, an AM modulator and a corresponding super-heterodyne receiver will be simulated using radio-station generated signals.
- ![](screenshots/3.png) 
+ ![3](Screenshots/3.png) 
  
 | 1                                   | 2                                   | 
 | ------------------------------------|------------------------------------ | 
